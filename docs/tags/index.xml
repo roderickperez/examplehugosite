@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on geoDataScience Example</title>
-    <link>your_site_url_address/tags/</link>
+    <link>https://roderickperez.github.io/examplehugosite/tags/</link>
     <description>Recent content in Tags on geoDataScience Example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="your_site_url_address/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://roderickperez.github.io/examplehugosite/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>your_site_url_address/tags/development/</link>
+      <link>https://roderickperez.github.io/examplehugosite/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>your_site_url_address/tags/development/</guid>
+      <guid>https://roderickperez.github.io/examplehugosite/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>your_site_url_address/tags/go/</link>
+      <link>https://roderickperez.github.io/examplehugosite/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>your_site_url_address/tags/go/</guid>
+      <guid>https://roderickperez.github.io/examplehugosite/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>your_site_url_address/tags/golang/</link>
+      <link>https://roderickperez.github.io/examplehugosite/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>your_site_url_address/tags/golang/</guid>
+      <guid>https://roderickperez.github.io/examplehugosite/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>your_site_url_address/tags/hugo/</link>
+      <link>https://roderickperez.github.io/examplehugosite/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>your_site_url_address/tags/hugo/</guid>
+      <guid>https://roderickperez.github.io/examplehugosite/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>your_site_url_address/tags/templates/</link>
+      <link>https://roderickperez.github.io/examplehugosite/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>your_site_url_address/tags/templates/</guid>
+      <guid>https://roderickperez.github.io/examplehugosite/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>your_site_url_address/tags/themes/</link>
+      <link>https://roderickperez.github.io/examplehugosite/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>your_site_url_address/tags/themes/</guid>
+      <guid>https://roderickperez.github.io/examplehugosite/tags/themes/</guid>
       <description></description>
     </item>
     
